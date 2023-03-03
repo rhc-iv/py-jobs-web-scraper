@@ -13,7 +13,7 @@
   </p>
 </p>
 
-### 🛋️ [Homepage - CHANGE!](https://github.com/rhc-iv/py-watermark-app)
+### 🛋️ [Homepage](https://github.com/rhc-iv/py-jobs-web-scraper)
 ---
 > Desktop application made with Python to scrape job listings from <a href="https//pythonjobs.github.io">PythonJobs</a>.
 
