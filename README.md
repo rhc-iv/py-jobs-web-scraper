@@ -46,7 +46,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/rhc-iv/py-watermark-app/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/rhc-iv/py-jobs-web-scraper/issues). 
 
 ## Show your support
 
